@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Haasini's First CS193 Homework 
+- I like that we start at the basics and learn helpful tips in coding
+- Its nice that this class offers good lessons for debugging because we definetly need that in the future!
+- I like that the professors are students who understand what we are going through
+- This class offers good insights without being super stressful!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
